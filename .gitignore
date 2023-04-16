@@ -1,12 +1,7 @@
 dist/
 venv/
 build/
-settings.ini
 __pycache__/
-Autosave/
 *.log
 files/
 .idea/
-wheel/build/
-wheel/dist/
-*.csv
