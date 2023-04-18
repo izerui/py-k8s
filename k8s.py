@@ -37,7 +37,7 @@ class K8sDeployment:
 
     def restart(self, namespace):
         '''
-        杀掉已经失效的pod,即将其Deployment的replicas设置为0
+        重启后台服务
         :param namespace:
         :return:
         '''
